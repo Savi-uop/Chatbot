@@ -1,0 +1,9 @@
+langchain
+langchain-openai
+langchain-community
+langchain-google-genai
+langchain-classic
+langchain-core
+langchain-chroma
+pypdf
+python-dotenv
